@@ -1,0 +1,106 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+body {
+  background-color: #121013;
+  color: #fff;
+  font-family: "Cardo", "Rubik", serif, sans-serif;
+}
+hr {
+  width: 70%;
+  margin: 0 auto;
+}
+
+/* song  */
+
+.hero {
+  padding-top: 15%;
+  height: 125px;
+  background-color: #121013;
+}
+
+.silence-text {
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+audio {
+  margin-top: 0;
+  width: 200px;
+  height: 20px;
+}
+
+/* band name and info */
+
+.band {
+  width: 100%;
+  padding-top: 500px;
+  background-color: #121013;
+}
+
+.band-name {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Cardo", serif;
+  background-color: #121013;
+}
+.sticky-top {
+  background-color: #121013;
+  margin: 0;
+}
+.row {
+  padding-top: 4%;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.image {
+  width: 350px;
+  filter: grayscale(100%);
+}
+
+.band-info {
+  padding: 0 7% 6% 7%;
+  font-size: 1.2rem;
+  font-family: "Rubik", sans-serif;
+}
+
+/* Video and tour dates */
+
+.video-dates {
+  padding: 6%;
+}
+.tour-dates-header {
+  text-align: left;
+  font-size: 3rem;
+  color: #121013;
+  background-color: #fff;
+}
+
+.tour-dates {
+  text-align: left;
+  font-size: 1.6rem;
+}
+
+ul {
+  font-family: "Rubik", sans-serif;
+  text-align: left;
+  list-style-type: none;
+  padding: 0;
+}
+
+iframe {
+  width: 560px;
+  height: 315px;
+}
+
+/* footer */
+
+footer {
+  padding: 2%;
+}
