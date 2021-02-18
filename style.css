@@ -17,7 +17,7 @@ hr {
 
 .hero {
   padding-top: 15%;
-  height: 125px;
+  height: 100vh;
   background-color: #121013;
 }
 
@@ -37,7 +37,6 @@ audio {
 
 .band {
   width: 100%;
-  padding-top: 500px;
   background-color: #121013;
 }
 
