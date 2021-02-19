@@ -98,6 +98,20 @@ iframe {
   height: 315px;
 }
 
+@media only screen and (max-width: 700px) {
+  iframe {
+    width: 320px;
+    height: 200px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  iframe {
+    width: 250px;
+    height: 150px;
+  }
+}
+
 /* footer */
 
 footer {
